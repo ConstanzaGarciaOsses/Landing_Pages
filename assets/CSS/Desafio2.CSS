@@ -1,0 +1,97 @@
+header {
+    background-color: rgb(0, 0, 0);
+}
+
+.ParteSuperior {
+    position: relative;
+    display: block;
+}
+
+.ImagenHeader {
+    background-image: url("../imagenes/MandoPs4Header.jpeg");
+    height: 400%;
+    width: 50%;
+    opacity: 30%;
+}
+
+.Joystick {
+    background-image: url("../imagenes/Header.webp"); 
+    width: 40%;
+    opacity: 70%;
+}
+
+.Titulo {
+    position:absolute;
+    top: 7.50%;
+    left: 2.5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 370%;
+    background-color: black;
+    color: yellow;
+}
+
+h3 {
+    position:absolute;
+    top: 30%;
+    left: 6.5%;
+    color: yellow;
+}
+
+ul a {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    color: white;
+    padding-left: 5%;
+    font-size: 165%;
+}
+
+thead {
+    background-color: gray;
+}
+
+.Visage {
+    height: 30em;
+}
+
+.VisageDescription {
+    color: white;
+    font-size: 170%;
+}
+
+.Village {
+    height: 30em;
+}
+
+.VillageDescription {
+    color: white;
+    font-size: 170%;
+}
+
+.Madison {
+    height: 30em;
+}
+
+.MadisonDescription {
+    color: white;
+    font-size: 170%;
+}
+
+footer {
+    background-color: rgb(255, 251, 0);
+    opacity: 70%;
+    color: black;
+    font-size: 150%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+.RedSocial {
+    height: 2em;
+}
